@@ -28,15 +28,10 @@ Estos resultados permitieron desarrollar un enfoque de analítica predictiva ori
 
 ```text
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── Biomas.xlsx/
+│   └── Metorologico.xlsx/
+|   └── Viviendas.xlsx/
 ├── notebooks/
-├── src/
-│   ├── data/
-│   ├── features/
-│   └── models/
-├── results/
-├── requirements.txt
 └── README.md
 ```
 
